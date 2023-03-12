@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello all");
         System.out.println("Hello everyone");
         System.out.println("hi");
+        System.out.println("hi again");
     }
 }
